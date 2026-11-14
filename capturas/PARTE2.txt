@@ -1,0 +1,3 @@
+Parte 2 del laboratorio de Arquitectura de Computadores.
+Esta sección contiene las evidencias de las trazas de ejecución
+de los programas de suma, LOOP y DEC/JNZ.
